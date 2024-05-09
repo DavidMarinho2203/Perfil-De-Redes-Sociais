@@ -36,6 +36,7 @@ Mas no geral, eu gostei bastante de ter praticado novamente o Mobile first e usa
 ### O que eu aprendi
 
 Eu pratique devTools, e praticando mobile first.
+Eu aprendi também que caso o site não tenha a quantidade conteúdo suficiente, podemos usar o 100vh no body, para que o conteúdo todo caiba no dispositivo.
 
 ### Desenvolvimento contínuo
 
@@ -51,7 +52,7 @@ Vou usar também o devtools, para me ajudar nos estilos, pois eu vi que ajuda ba
 
 ## Autor
 
-- Site - [Site Ativo](https://pagina-de-receitas.vercel.app/)
+- Site - [Site Ativo](https://perfil-de-redes-sociais.vercel.app/)
 - Mentor de Frontend - [@DavidMarinho2203](https://www.frontendmentor.io/profile/DavidMarinho2203)
 
 
